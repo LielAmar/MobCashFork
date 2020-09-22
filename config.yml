@@ -1,0 +1,96 @@
+# =====================================================
+# Thank you for using MobCashFork by LielAmar.
+# If you have any problems, you can join my discord
+# server and contact me there.
+# Link: discord.gg/NzgBrqR
+# =====================================================
+
+# General messages
+NoPermissionsMessage: "&cYou don't have enough permissions to do that!"
+WrongUsageMessage: "&cWrong usage. Use /MobCash <Reload>"
+ReloadConfigMessage: "&aMob Cash Config was reloaded!"
+
+# The messages players will receive when getting cash
+# Set to "None" in order to disable the message
+ReceivedCashMessage: "&eYou received &2$%value% &efor killing a &b%type%&e!"
+ReceivedCashActionbarMessage: "&e+&2$%value% &efor killing a &b%type%&e!"
+
+# Whether or not to use a fancy way to give players
+# money for killing mobs
+FancyMoneyGiving: true
+FancyMoneyGivingItem: GOLD_NUGGET
+
+# Whether or not to give a random amount of coins
+# between 0 and the number specified below
+RandomCoins: false
+
+# How much coins to give for killing each mob
+# Set to 0.0 to cancel money giving for the mob
+Mobs:
+    ELDER_GUARDIAN: 10.0
+    WITHER_SKELETON: 10.0
+    STRAY: 10.0
+    HUSK: 10.0
+    ZOMBIE_VILLAGER: 10.0
+    SKELETON_HORSE: 10.0
+    ZOMBIE_HORSE: 10.0
+    ARMOR_STAND: 10.0
+    DONKEY: 10.0
+    MULE: 10.0
+    EVOKER: 10.0
+    VEX: 10.0
+    VINDICATOR: 10.0
+    ILLUSIONER: 10.0
+    CREEPER: 10.0
+    SKELETON: 10.0
+    SPIDER: 10.0
+    GIANT: 10.0
+    ZOMBIE: 10.0
+    SLIME: 10.0
+    GHAST: 10.0
+    PIG_ZOMBIE: 10.0
+    ENDERMAN: 10.0
+    CAVE_SPIDER: 10.0
+    SILVERFISH: 10.0
+    BLAZE: 10.0
+    MAGMA_CUBE: 10.0
+    ENDER_DRAGON: 10.0
+    WITHER: 10.0
+    BAT: 10.0
+    WITCH: 10.0
+    ENDERMITE: 10.0
+    GUARDIAN: 10.0
+    SHULKER: 10.0
+    PIG: 10.0
+    SHEEP: 10.0
+    COW: 10.0
+    CHICKEN: 10.0
+    SQUID: 10.0
+    WOLF: 10.0
+    MUSHROOM_COW: 10.0
+    SNOWMAN: 10.0
+    OCELOT: 10.0
+    IRON_GOLEM: 10.0
+    HORSE: 10.0
+    RABBIT: 10.0
+    POLAR_BEAR: 10.0
+    LLAMA: 10.0
+    PARROT: 10.0
+    VILLAGER: 10.0
+    TURTLE: 10.0
+    PHANTOM: 10.0
+    COD: 10.0
+    SALMON: 10.0
+    PUFFERFISH: 10.0
+    TROPICAL_FISH: 10.0
+    DROWNED: 10.0
+    DOLPHIN: 10.0
+    CAT: 10.0
+    PANDA: 10.0
+    PILLAGER: 10.0
+    RAVAGER: 10.0
+    TRADER_LLAMA: 10.0
+    WANDERING_TRADER: 10.0
+    FOX: 10.0
+    BEE: 10.0
+    PLAYER: 10.0

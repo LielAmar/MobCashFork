@@ -1,0 +1,10 @@
+name: MobCashFork
+version: 1.0
+author: LielAmar
+main: com.lielamar.mobcash.Main
+description: A fork of MobCash
+dependencies: [Vault]
+
+commands:
+    mobcash:
+        description: Main command for the plugin
