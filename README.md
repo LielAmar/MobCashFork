@@ -1,6 +1,6 @@
 # MobCashFork
 
-[<img alt="spigot" src="https://lielamar.com/cdn/plugins/ithub_spigot.png" size=1.5>](https://www.spigotmc.org/resources/mobcash-fork.84100/)
+[<img alt="spigot" src="https://lielamar.com/cdn/plugins/github_spigot.png" size=1.5>](https://www.spigotmc.org/resources/mobcash-fork.84100/)
 <br>
 [<img alt="discord" src="https://lielamar.com/cdn/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
 
